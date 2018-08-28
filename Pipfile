@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+pillow = "*"
+tqdm = "*"
+rsa = "*"
+aiofiles = "*"
+aiohttp = "*"
+"bs4" = "*"
+tinytag = "*"
+
+[dev-packages]
+pylint = "*"
+"autopep8" = "*"
+rope = "*"
+
+[requires]
+python_version = "3.7"
