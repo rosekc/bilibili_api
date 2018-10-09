@@ -1,9 +1,10 @@
 # bilibili_api
 
-A python library for [Bilibili](https://bilibili.com) API.
+[On development]A python library for [Bilibili](https://bilibili.com) API.
 
 ## Feature
 - Login
+- Upload/modify a vedio
 
 ## Installation
 
